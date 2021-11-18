@@ -44,3 +44,4 @@ target = 2
 nums = [-6, -4, -1, 0, 2, 4, 5, 6, 7, 9]
 print(nums)
 print(binarySearch(nums, target, 0, len(nums) - 1))
+# 2432423423
